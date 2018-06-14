@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.luc.cs.cs271.lab2.TestSearch" tests="10" skipped="0" failures="0" errors="0" timestamp="2018-06-13T20:46:54" hostname="DESKTOP-HPVESFO" time="0.01">
+  <properties/>
+  <testcase name="testFindPositionArray10f" classname="edu.luc.cs.cs271.lab2.TestSearch" time="0.006"/>
+  <testcase name="testFindPositionArray10s" classname="edu.luc.cs.cs271.lab2.TestSearch" time="0.0"/>
+  <testcase name="testFindMinFundingArrayFast10s" classname="edu.luc.cs.cs271.lab2.TestSearch" time="0.0"/>
+  <testcase name="testFindMinFundingArrayFast0" classname="edu.luc.cs.cs271.lab2.TestSearch" time="0.0"/>
+  <testcase name="testFindPositionList10f" classname="edu.luc.cs.cs271.lab2.TestSearch" time="0.0"/>
+  <testcase name="testFindPositionList10s" classname="edu.luc.cs.cs271.lab2.TestSearch" time="0.0"/>
+  <testcase name="testFindPositionArray0" classname="edu.luc.cs.cs271.lab2.TestSearch" time="0.0"/>
+  <testcase name="testFindMinFundingArray0" classname="edu.luc.cs.cs271.lab2.TestSearch" time="0.0"/>
+  <testcase name="testFindPositionList0" classname="edu.luc.cs.cs271.lab2.TestSearch" time="0.0"/>
+  <testcase name="testFindMinFundingArray10s" classname="edu.luc.cs.cs271.lab2.TestSearch" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
